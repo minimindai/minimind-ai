@@ -199,10 +199,13 @@ Blog
 https://minimindai.com/blog
 
 ---
-
+ 
 # License
 
-MIT License
+This repository is released under the MIT License.
+
+**Note**: This repository contains documentation and examples for MiniMind AI tools.
+The core MiniMind platform is proprietary software and is not included here.
 
 ---
 
