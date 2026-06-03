@@ -161,13 +161,28 @@ MiniMind tools can help with:
 
 ---
 
-# Philosophy
+# Philosophy & The CAPi Framework
 
 MiniMind is built around a simple idea:
 
 > AI should produce **usable outputs**, not just text.
 
-Instead of acting as another chatbot interface, MiniMind focuses on **task-oriented AI tools**.
+Instead of acting as another chatbot interface, MiniMind tools and workflows are built on the **CAPi (Config Augmented Progressive Interaction)** framework.
+
+### Config Augmented Progressive Interaction (CAPi)
+The CAPi framework is a config-driven tool architecture designed to shift the burden of interaction from the user to the interface:
+- **Config-Driven Architecture**: Each tool is backed by a structured configuration specifying minimal user inputs, parameters, and instruction templates.
+- **Intent Over Prompting**: Instead of crafting complex prompts, users select settings and enter basic information. The framework translates these into expert-level prompts for the underlying AI model.
+- **Consistently High Quality**: Beginners and advanced users alike achieve identical, professional-grade results because the configuration handles prompt optimization.
+
+### Guided Agentic Workflows
+For multi-step planning and creation, MiniMind leverages **Guided Agentic Workflows**. These workflows coordinate sequential agent states to build complex assets (like system architecture from a PRD) with robust execution capabilities:
+- **Orchestration**: Runs sequential steps seamlessly.
+- **Human-in-the-Loop**: Pause, review, and refine intermediate steps to control the outcome.
+- **Resilience**: Features automatic and manual retry options, branching paths, and state retention.
+- **Packaged Deliverables**: Packages files, schemas, and reports into clean, exportable ZIP or markdown packages.
+
+Read more about our design approach: **[Introducing Guided Agentic Workflows on MiniMind Blog](https://www.minimindai.com/blog/introducing-guided-agentic-workflows)**.
 
 ---
 
