@@ -1,0 +1,28 @@
+# 🦫 cURL to Go HTTP Client Generator
+
+Generate idiomatic Go net/http client code from cURL commands, including headers, JSON bodies, and timeouts.
+
+This is a specialized variation of the **[Universal API Request Converter](request-converter.md)** tool.
+
+## 🚀 Try It Now
+Experience this tool variation with full interactive features directly on MiniMind AI:
+👉 **[Run cURL to Go HTTP Client Generator on MiniMind AI](https://www.minimindai.com/tools/request-converter-v-curl-to-go-http)**
+
+---
+
+## 🛠️ Key Capabilities
+- Instantly convert CURL commands into production-ready code
+- Translate between different HTTP libraries (Axios to Fetch, etc.)
+- Handle complex headers, auth tokens, and multi-part bodies
+- Generate boilerplate for error handling and retries
+- Support for modern languages (JS, Python, Go, Ruby, Rust)
+
+## 💡 Example Prompts
+- "curl to go http"
+- "go http client example"
+- "convert curl to golang"
+
+---
+
+### Base Tool
+- **[Universal API Request Converter](request-converter.md)**
