@@ -173,7 +173,12 @@ Instead of acting as another chatbot interface, MiniMind focuses on **task-orien
 
 # Documentation
 
-Documentation and examples will be added in the `/docs` directory of this repository as well at https://www.minimindai.com/docs.
+Browse our directories of available tools and workflows directly within this repository:
+
+- 🛠️ **[Tools Directory (GitHub)](tools/README.md)** (Live website: [https://www.minimindai.com/tools](https://www.minimindai.com/tools))
+- 🏗️ **[Workflows Directory (GitHub)](workflows/README.md)** (Live website: [https://www.minimindai.com/workflows](https://www.minimindai.com/workflows))
+
+Additional documentation and examples can be found at the official website: [https://www.minimindai.com/docs](https://www.minimindai.com/docs).
 
 ---
 
